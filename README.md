@@ -1,3 +1,3 @@
 - 👋 Hi, my name is Veljko.
-- 🌱 I’m graduated Software Engineer.
+- 🌱 I’m Software Engineer.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nasev/)
