@@ -1,4 +1,3 @@
 - 👋 Hi, my name is Veljko.
-- 👀 I’m interested in Programming and Gaming.
 - 🌱 I’m graduated Software Engineer.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nasev/)
